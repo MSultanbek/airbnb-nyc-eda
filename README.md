@@ -4,7 +4,7 @@
 An end-to-end EDA identifying what drives listing prices, which boroughs offer the best value, and where new hosts should list to maximize bookings.
 
 
-### The Goal
+### Business Questions
 This project tries to answers 4 business questions on listings:
 1. What drives listing prices in NYC?
 2. Which neighbourhoods offer the best value?
@@ -12,7 +12,7 @@ This project tries to answers 4 business questions on listings:
 4. Where should a new host list their property to maximize bookings?
 
 ### Data
-**Source:** [NYC Airbnb Open Data — Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)  
+**Source:** [NYC Airbnb Open Data — Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 **Size:** 48,595 listings × 14 columns (after cleaning)  
 **Coverage:** All 5 NYC boroughs — Manhattan, Brooklyn, Queens, Bronx, Staten Island
 
